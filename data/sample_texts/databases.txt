@@ -1,0 +1,12 @@
+ACID properties guarantee atomicity, consistency, isolation, and durability in database transactions.
+Indexing improves query performance by creating a data structure that allows faster row lookups.
+Normalization reduces data redundancy by organizing data into related tables with foreign key references.
+A transaction is a sequence of operations executed as a single logical unit that must fully succeed or fully fail.
+MVCC allows concurrent transactions to read consistent snapshots of data without blocking each other.
+The B-tree index structure supports efficient range queries and sorted access on indexed columns.
+SQL joins combine rows from two or more tables based on a related column between them.
+NoSQL databases sacrifice strict consistency for higher availability and horizontal scalability.
+Sharding partitions data across multiple database nodes to distribute load and increase throughput.
+Write-ahead logging records changes to a log before applying them to ensure crash recovery.
+Connection pooling reuses existing database connections to reduce the overhead of establishing new ones.
+The query planner analyzes possible execution strategies and selects the lowest-cost plan.

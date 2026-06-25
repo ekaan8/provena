@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# Database & index files (user-generated, not committed)
+knowledge.db
+knowledge.index
+*.db
+*.index
+
+# Benchmark results (generated, commit only if intentional)
+benchmarks/results/benchmark_results.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ollama / model cache
+.ollama/
+
+# Logs
+*.log

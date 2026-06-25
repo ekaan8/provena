@@ -1,0 +1,12 @@
+Gradient descent minimizes the loss function by iteratively moving in the direction of the negative gradient.
+Overfitting occurs when a model learns the training data too well and fails to generalize to new examples.
+Regularization techniques such as L1 and L2 penalize large weights to reduce overfitting.
+The learning rate controls the step size during gradient descent and affects convergence speed.
+Batch normalization normalizes activations within a layer to stabilize and accelerate training.
+Dropout randomly deactivates neurons during training to prevent co-adaptation and reduce overfitting.
+The transformer architecture uses self-attention to weigh the importance of different positions in a sequence.
+Backpropagation computes gradients by applying the chain rule from the output layer to the input layer.
+Embeddings represent discrete tokens as dense continuous vectors in a high-dimensional space.
+Transfer learning reuses a pretrained model as a starting point to solve a different but related task.
+Cross-entropy loss measures the difference between the predicted probability distribution and the true distribution.
+Adam optimizer combines momentum and adaptive learning rates to improve convergence on noisy gradients.

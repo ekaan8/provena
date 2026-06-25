@@ -1,0 +1,12 @@
+Epoll is highly efficient for high connection counts because it uses event-driven notification.
+Select is a traditional IO multiplexing method that scales poorly with large file descriptor sets.
+Poll is similar to select but uses a dynamic array instead of fixed-size bitmaps.
+The kernel uses a scheduler to allocate CPU time to competing processes.
+Mutex locks prevent concurrent access to shared memory regions by allowing only one thread at a time.
+Semaphores provide a signaling mechanism between processes using a counter that can be incremented or decremented.
+Deadlock occurs when two or more processes wait indefinitely for each other to release resources.
+Memory paging divides physical memory into fixed-size blocks called pages to support virtual addressing.
+Context switching saves the state of the current process and restores the state of the next scheduled process.
+Thread creation is cheaper than process creation because threads share the same memory space.
+The read system call transfers data from a file descriptor into a user-space buffer.
+Epoll outperforms select and poll because it does not require scanning all file descriptors on each call.
