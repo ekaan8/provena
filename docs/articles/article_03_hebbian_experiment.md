@@ -182,7 +182,7 @@ This is not a negative result. It is an accurate characterization of where the m
 
 ---
 
-**Reproduce this experiment:** `python benchmarks/benchmark_retrieval.py` in the [Provena repository](https://github.com/yourusername/provena)
+**Reproduce this experiment:** `python benchmarks/benchmark_retrieval.py` in the [Provena repository](https://github.com/ekaan8/provena)
 
 *Previous: [Part 2 — Why Cyc and NELL Failed](article_02_cyc_nell_lessons.md)*
 *Next: [Part 4 — AI Without Black Boxes](article_04_traceable_knowledge.md)*

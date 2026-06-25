@@ -131,7 +131,7 @@ Whether this approach scales to the complexity of human knowledge is an open que
 
 ---
 
-**The Provena source code is available at:** [github.com/yourusername/provena](https://github.com)
+**The Provena source code is available at:** [github.com/ekaan8/provena](https://github.com)
 
 *Previous: [Part 3 — The Experiment](article_03_hebbian_experiment.md)*
 

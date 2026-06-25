@@ -90,7 +90,7 @@ The graveyard of AI knowledge systems is full of systems that tried to be infini
 
 ---
 
-**The Provena source code is available at:** [github.com/yourusername/provena](https://github.com)
+**The Provena source code is available at:** [github.com/ekaan8/provena](https://github.com)
 
 *Previous: [Part 1 — Why AI Forgets](article_01_why_ai_forgets.md)*
 *Next: [Part 3 — Does Hebbian Learning Work in a Knowledge Graph?](article_03_hebbian_experiment.md)*

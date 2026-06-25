@@ -69,11 +69,11 @@ izlenebilir bilginin neden önemli olduğu ve gerçek maliyeti.
 ## GitHub
 
 Tüm kaynak kod, benchmark scripti ve veri setleri açık kaynak:  
-[github.com/yourusername/provena](https://github.com)
+[github.com/ekaan8/provena](https://github.com)
 
 Deneyler tekrarlanabilir:
 ```bash
-git clone https://github.com/yourusername/provena
+git clone https://github.com/ekaan8/provena
 cd provena
 pip install -r requirements.txt
 python benchmarks/benchmark_retrieval.py

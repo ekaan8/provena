@@ -114,6 +114,6 @@ In the next article, I look at what happened to the two previous large-scale att
 
 ---
 
-**The Provena source code is available at:** [github.com/yourusername/provena](https://github.com)
+**The Provena source code is available at:** [github.com/ekaan8/provena](https://github.com)
 
 *Next: [Part 2 — Why Cyc and NELL Failed, And What We Learned From Them](article_02_cyc_nell_lessons.md)*
